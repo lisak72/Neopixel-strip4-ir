@@ -52,7 +52,7 @@ Mkfile.old
 dkms.conf
 build/
 deps/
-!pwds.h.temp
 pwds.h*
+!pwds.h.temp
 core*
 debug*

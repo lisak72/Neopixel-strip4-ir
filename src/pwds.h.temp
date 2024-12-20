@@ -1,0 +1,11 @@
+struct mgos_config_wifi_sta sta_config = {
+        .enable = true,
+  //      .ssid = "",
+  //      .pass = "",
+};
+
+
+
+int dash_config_enable=1;
+const char* dash_token="";
+
